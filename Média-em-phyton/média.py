@@ -7,3 +7,4 @@ nota3= float (input("Digite a terceira nota do aluno "))
 média= (nota1 + nota2 + nota3)/3
 
 print("A média do aluno é: ",média)
+print("Precione enter para sair ")
